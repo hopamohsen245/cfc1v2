@@ -8,7 +8,7 @@ client.on('ready', () => {
 
 client.on('ready', async() => {
 var server = "504645615750217728"; // ايدي السررفر
-var channel = "514203203311763457";//ايدي الروم
+var channel = "514938809939656714";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**plexy , plexy , plexy , plexy , plexy , plexy , plexy , plexy , plexy , plexy , plexy , plexy , plexy , plexy , plexy , plexy , plexy , plexy , **')
     },305);
